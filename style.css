@@ -1,0 +1,57 @@
+body {
+  background-image: url("https://wallpapers.com/images/hd/bubble-background-1qv7d2an5crk1zj4.jpg");
+  
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+.profile{
+  border-radius: 50%;
+  width: 8%;
+  
+}
+.social{
+  border-radius:15px;
+  text-align: center;
+  width: 360px;
+  height: 15px;
+  padding: 20px;
+  border: 1px solid blue;
+  background-color: #2525d0;
+  opacity: 0.8;
+  margin-bottom: 20px;
+  margin-left:
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+.profile{
+  margin: 20px auto 10px 170px;
+}
+
+.mail{
+  text-align: center;
+}
+
+h1,h3{
+  text-align: center;
+  color:#dfbfd9;
+  background-color: #0b0222;
+  opacity: 0.8;
+  
+  font-style: italic;
+  margin:0;
+}
+.intro{
+  margin-bottom: 50px;
+  width:32%;
+  border-bottom: 10px;
+  margin-left:9%;
+}
+
+#content{
+  margin-left: 37%;
+}
